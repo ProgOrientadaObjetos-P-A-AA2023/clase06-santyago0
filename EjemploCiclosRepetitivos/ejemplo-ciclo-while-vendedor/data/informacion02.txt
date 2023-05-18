@@ -1,0 +1,14 @@
+Datos de Vendedor
+Nombre: Jhordy
+Edad: 19
+Salario mínimo: 550,55
+Número de autos: 5
+Pago mensual: 1300,55
+
+Datos de Vendedor
+Nombre: Luis
+Edad: 21
+Salario mínimo: 600,25
+Número de autos: 2
+Pago mensual: 900,25
+
